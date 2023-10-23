@@ -11,7 +11,7 @@
 
 I'm currently working as a Backend Developer at <a href="https://babelgroup.com/">@BABEL</a>, a multinational company based in Spain that provides IT consulting in sectors such as security, energy, insurance, telecommunications, etc.
 
-I have worked in different areas such as microservices, Internet of Things (IoT) and Artificial Intelligence and BigSmall Data, in all of them with Python as programming language.
+I have worked in different areas such as microservices, Internet of Things (IoT) and Artificial Intelligence and ~~Big~~Small Data, in all of them with Python as programming language.
 
 Welcome to my GitHub profile.
 
