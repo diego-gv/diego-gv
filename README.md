@@ -5,7 +5,7 @@
   <code><a href="mailto:diegosalvador.gv@gmail.com" title="Gmail"><img width="30" src="images/gmail.png"></a></code>
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png" width="100%">
 
 <img align="right" src="https://github.com/diego-gv/diego-gv/blob/main/images/coding.gif" alt="Coding GIF" height="230">
 
@@ -21,34 +21,38 @@ Welcome to my GitHub profile.
 - :robot: Machine Learning and anything to do with Artificial Intelligence
 - :man_scientist: Data Science/Enginering, data mining, etc
     
-<h3>Languajes and tools</h3>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png" width="100%">
 
-<div align="center">
-  <p>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask"></code>
-    <code><img height="40" src="images/pytest.png" alt="pytest"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <code><img height="40" src="images/terminal.png" alt="terminal"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"></code>
-  </p>
-  <p>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"></code>
-    <code><img height="40" src="images/ubuntu.png" alt="ubuntu"></code>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode"></code>
-    <code><img height="40" src="images/postman.png" alt="postman"></code>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket"></code>
-  </p>
-</div>
+<h3>🥞 My Stack</h3>
+<p>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask"></code>
+  <code><img height="40" src="images/pytest.png" alt="pytest"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis"></code>
+  <code><img height="40" src="images/celery.png" alt="celery"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu"></code>
+  <code><img height="40" src="images/macos.svg" alt="macos"></code>
+</p>
+  
+<h3>🛠️ Everyday tools</h3>
+<p>
+  <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="terminal"></code>
+  <code><img height="40" src="images/swagger.svg" alt="swagger"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode"></code>
+  <code><img height="40" src="images/postman.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins"></code>
+</p>
 
-<hr>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png" width="100%">
+
+_See you~~_ 👋
 
 <!--
 <h3>My profile ~~modest~~ stats</h3>
