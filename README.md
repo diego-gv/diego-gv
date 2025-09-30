@@ -75,7 +75,7 @@
 
 ### 🎮 Personal Side
 
-- 🧗‍♂️ I enjoy rock climbing and staying active.
+- 🧗‍♂️ I enjoy climbing and staying active.
 - 📺 Big fan of manga, anime, series, and movies.
 - 🎮 Video games enthusiast.
 - ☕ Coffee enthusiast – it fuels my coding sessions.
